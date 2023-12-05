@@ -3,4 +3,4 @@
 
 # Sides Summary
 
-![]()
+![](./IMGRES/ABPEoMLmuHoGAaSA/Slide1.PNG)
